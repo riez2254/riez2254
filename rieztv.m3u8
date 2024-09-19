@@ -21,7 +21,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/54/1/afc-champions-league-two-logo-png_seeklogo-547502.png" group-title="RIEZ TV",Persib Vs Thai Port RCTI
-https://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157591.ts
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157591.ts
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
