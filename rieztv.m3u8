@@ -1275,6 +1275,12 @@ http://45.64.97.82:8038/;stream.nsv
 #EXTINF:0 tvg-logo="https://www.pramborsfm.com/_nuxt/img/9c74ecc.webp" group-title="RADIO", Prambors FM JKT
 https://22243.live.streamtheworld.com:443/PRAMBORS_FM_SC?dist=pramborsweb&pname=tdwidgets
 
+EXTINF:0 tvg-logo="https://client.okezone.com/testing/sherly/tv-okezone-revamp//assets/img/radio-jakarta.png" group-title="RADIO", OKEZONE RADIO JKT
+http://202.147.199.98/stream/1/
+
+#EXTINF:0 tvg-logo="https://gen987fm.com/uploads/themes/Nx60xthemes-logo-small-74031486eb23a72.png.pagespeed.ic.iAWYaodetl.webp" group-title="RADIO", GEN FM Jkt
+http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w27894280.m3u8
+
 
 
 
