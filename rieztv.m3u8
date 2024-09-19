@@ -1281,6 +1281,16 @@ http://202.147.199.98/stream/1/
 #EXTINF:0 tvg-logo="https://gen987fm.com/uploads/themes/Nx60xthemes-logo-small-74031486eb23a72.png.pagespeed.ic.iAWYaodetl.webp" group-title="RADIO",GEN FM JKT
 http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w27894280.m3u8
 
+#EXTINF:0 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-ATAS-2022-WEB-1.png" group-title="RADIO",I-RADIO JKT
+https://n0c.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkb1BlkoAg3qkUVlzgXGBCw
+
+#EXTINF:0 tvg-logo="https://id.m.wikipedia.org/wiki/Radio_Dangdut_Indonesia#/media/Berkas%3ARDI_Jakarta.png" group-title="RADIO",RDI JKT
+http://202.147.199.99:8000/stream/1/
+
+#EXTINF:0 tvg-logo="https://id.m.wikipedia.org/wiki/Trax_FM#/media/Berkas%3ATrax_Jakarta.png" group-title="RADIO",TRAX JKT
+http://n0f.radiojar.com/rrqf78p3bnzuv.mp3?1725460790=&rj-tok=AAABkb2DbR4A92j6mUc38XlodA&rj-ttl=5
+
+
 
 
 
