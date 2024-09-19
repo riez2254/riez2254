@@ -1254,14 +1254,18 @@ https://i.klikhost.com/8330/;
 #EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/19205.v6.png" group-title="RADIO",Sukapura Fm Tasik
 https://svara-stream.radioddns.net:8443/tasik_sukapurafm_mp3
 
-#EXTINF:0 tvg-logo="#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/82758.v65.png" group-title="RADIO",G@luh Fm Tasik
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/82758.v65.png" group-title="RADIO",G@luh Fm Tasik
 https://stream.yaomiab.com/galuhfm
+
 
 #EXTINF:0 tvg-logo="https://martha-radio.com/martha/assets/img/logo.png" group-title="RADIO",Martha Fm Tasik
 https://stream-176.zeno.fm/o1fbzkao8iotv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvMWZiemthbzhpb3R2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im9HR0NIQTkyVEdtWnZJV3djNzh3Y2ciLCJpYXQiOjE3MjY3MTcxMjcsImV4cCI6MTcyNjcxNzE4N30.yuAxaYIVV8s9ynQnnWmZGmHRX8HEfZJtkRU74RyDkQU
 
 #EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/78073.v11.png" group-title="RADIO",Bellasalam Fm Tasik
-https://svara-stream.radioddns.net:8443/tasik_sukapurafm_mp3
+http://listen.bellasalamfm.com:8760/;
+
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91026.v3.png" group-title="RADIO",Style Fm tasik
+https://stream.stylefmtasik.com:9460/stream
 
 
 
