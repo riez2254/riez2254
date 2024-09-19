@@ -1233,8 +1233,24 @@ https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/
 
 =====================================RADIO==========================================
 
-#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/18827.v10.png" group-title="RADIO", Ardan Radio
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/18827.v10.png" group-title="RADIO",Ardan Radio Bandung
 https://n06.rcs.revma.com/ugpyzu9n5k3vv?rj-ttl=5&rj-tok=AAABkb08YcsAbLm8AJY1UmolMg
 
-#EXTINF:0 tvg-logo="https://cdn.instant.audio/images/logos/radioonline-co-id/cakra-bandung.png" group-title="RADIO", Cakra Fm Bandung
+#EXTINF:0 tvg-logo="https://cdn.instant.audio/images/logos/radioonline-co-id/cakra-bandung.png" group-title="RADIO",Cakra Fm Bandung
 https://n14.rcs.revma.com/chuzgcqd6k3vv?rj-ttl=5&rj-tok=AAABkggr_6wAdkejxaCcV2DA4g
+
+#EXTINF:0 tvg-logo="https://cdn.instant.audio/images/logos/radioonline-co-id/dahlia.png" group-title="RADIO",Dahlia Fm Bandung
+https://svara-stream.radioddns.net:8443/bandung_dahliafm
+
+#EXTINF:0 tvg-logo="https://cdn.instant.audio/images/logos/radioonline-co-id/mara-106-7-fm-bandung.png" group-title="RADIO",Mara Fm Bandung
+https://svara-stream.radioddns.net:8443/bandung_marafm
+
+#EXTINF:0 tvg-logo="https://bradio956.fm/wp-content/themes/bradio/assets/image/bradio-log.png" group-title="RADIO",Radio B Bandung
+https://n08.rcs.revma.com/9yp8b9pd6k3vv?rj-ttl=5&rj-tok=AAABkgg7sVUANvFRFyC1wkePdw
+
+
+
+
+
+
+
