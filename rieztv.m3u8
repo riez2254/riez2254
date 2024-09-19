@@ -1272,6 +1272,9 @@ https://stream-173.zeno.fm/g868xfexabhtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 #EXTINF:0 tvg-logo="https://cdn.instant.audio/images/logos/radioonline-co-id/emdikei.png" group-title="RADIO",Emdikei FM Tasik
 http://45.64.97.82:8038/;stream.nsv
 
+#EXTINF:0 tvg-logo="https://www.pramborsfm.com/_nuxt/img/9c74ecc.webp" group-title="RADIO", Prambors FM JKT
+https://22243.live.streamtheworld.com:443/PRAMBORS_FM_SC?dist=pramborsweb&pname=tdwidgets
+
 
 
 
