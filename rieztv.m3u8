@@ -1248,6 +1248,13 @@ https://svara-stream.radioddns.net:8443/bandung_marafm
 #EXTINF:0 tvg-logo="https://bradio956.fm/wp-content/themes/bradio/assets/image/bradio-log.png" group-title="RADIO",Radio B Bandung
 https://n08.rcs.revma.com/9yp8b9pd6k3vv?rj-ttl=5&rj-tok=AAABkgg7sVUANvFRFyC1wkePdw
 
+#EXTINF:0 tvg-logo="https://ramafm.com/wp-content/uploads/2019/03/logo-rama-2.png" group-title="RADIO",Rama Fm Bandung
+https://i.klikhost.com/8330/;
+
+#EXTINF:0 tvg-logo="https://ramafm.com/wp-content/uploads/2019/03/logo-rama-2.png" group-title="RADIO",Sukapura Fm Tasik
+https://svara-stream.radioddns.net:8443/tasik_sukapurafm_mp3
+
+
 
 
 
