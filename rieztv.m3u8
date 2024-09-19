@@ -1251,7 +1251,13 @@ https://n08.rcs.revma.com/9yp8b9pd6k3vv?rj-ttl=5&rj-tok=AAABkgg7sVUANvFRFyC1wkeP
 #EXTINF:0 tvg-logo="https://ramafm.com/wp-content/uploads/2019/03/logo-rama-2.png" group-title="RADIO",Rama Fm Bandung
 https://i.klikhost.com/8330/;
 
-#EXTINF:0 tvg-logo="https://ramafm.com/wp-content/uploads/2019/03/logo-rama-2.png" group-title="RADIO",Sukapura Fm Tasik
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/19205.v6.png" group-title="RADIO",Sukapura Fm Tasik
+https://svara-stream.radioddns.net:8443/tasik_sukapurafm_mp3
+
+#EXTINF:0 tvg-logo="#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/82758.v65.png" group-title="RADIO",G@luh Fm Tasik
+https://stream.yaomiab.com/galuhfm
+
+#EXTINF:0 tvg-logo="https://martha-radio.com/martha/assets/img/logo.png" group-title="RADIO",Sukapura Fm Tasik
 https://svara-stream.radioddns.net:8443/tasik_sukapurafm_mp3
 
 
