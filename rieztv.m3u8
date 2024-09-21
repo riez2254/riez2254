@@ -3,6 +3,13 @@
 #EXTINF:-1 tvg-id="RIEZ TV" tvg-logo="https://static.a-n.co.uk/wp-content/uploads/2017/10/Free.jpg" group-title="RIEZ TV",INFO RIEZTV
 https://github.com/riez2254/riez2254/raw/main/rieztv_720P.mp4
 
+#EXTINF:-1 tvg-id="Play Sports HD2.be" tvg-logo="https://i.ibb.co/MB271LX/playsports2.png" group-title="RIEZ TV" , PLAY SPORTS 2 LIGA INGRIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
+
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
