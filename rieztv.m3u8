@@ -3,9 +3,8 @@
 #EXTINF:-1 tvg-id="RIEZ TV" tvg-logo="https://static.a-n.co.uk/wp-content/uploads/2017/10/Free.jpg" group-title="RIEZ TV",INFO RIEZTV
 https://github.com/riez2254/riez2254/raw/main/rieztv_720P.mp4
 
-#EXTINF:-1 tvg-name="Arena Sport 1 Croatia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3e22bab3e6cc787ceb5445d6c4fad694.png" group-title="RIEZ TV",Arena Sport Liga ingris
+#EXTINF:-1 tvg-name="Arena Sport 1 Croatia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3e22bab3e6cc787ceb5445d6c4fad694.png" group-title="RIEZ TV",Arena Sport LIGA INGRIS
 https://webhdrunns.mizhls.ru/lb/premium432/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
