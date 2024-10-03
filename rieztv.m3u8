@@ -3,6 +3,13 @@
 #EXTINF:-1 tvg-id="RIEZ TV" tvg-logo="https://static.a-n.co.uk/wp-content/uploads/2017/10/Free.jpg" group-title="RIEZ TV",INFO RIEZTV
 https://github.com/riez2254/riez2254/raw/main/rieztv_720P.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="RIEZ TV",BEINSPORT 1TEST
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
