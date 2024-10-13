@@ -1449,4 +1449,7 @@ https://proxy.roov.id/?name=http://111.119.207.125:8060/;emVuby5mbSIsInJ0dGw
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/2dm8GwJ/Logo-Bahana-FMJKT.png" group-title="RADIO",BAHANA FM JKT
 https://s1.cloudmu.id/listen/bahana/stream
 
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/Mcd0VXR/Logo-Kis951-FM-2017.png" group-title="RADIO",KISS FM JKT
+https://wz.mari.co.id:1936/web_kisfm/kisfm/chunklist_w516166152.m3u8
+
 
