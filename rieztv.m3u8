@@ -6,12 +6,6 @@ https://github.com/riez2254/riez2254/raw/main/rieztv_720P.mp4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="RIEZ TV",Bahrain Vs Timnas 23:00
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="RIEZ TV",beIN Sports 1 TEST
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
@@ -1437,7 +1431,7 @@ http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w27894280.m3u8
 #EXTINF:0 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-ATAS-2022-WEB-1.png" group-title="RADIO",I-RADIO JKT
 https://n0c.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkb1BlkoAg3qkUVlzgXGBCw
 
-#EXTINF:0 tvg-logo="https://id.m.wikipedia.org/wiki/Radio_Dangdut_Indonesia#/media/Berkas%3ARDI_logo.png" group-title="RADIO",RDI JKT
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/NCwCQmM/RDI-Jakarta.png" group-title="RADIO",RDI JKT
 https://stream.roov.id:8062/stream?type=http&nocache=876
 
 #EXTINF:0 tvg-logo="https://traxonsky.com/wp-content/uploads/2022/01/trax-new-logo-2022-03-resize.png" group-title="RADIO",TRAX JKT
@@ -1451,16 +1445,4 @@ https://stream-156.zeno.fm/047dgsp3v68uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI
 
 #EXTINF:0 tvg-logo="https://www.mnctrijaya.com/uploads/page/mnctrijayafm.png" group-title="RADIO",MNC Trijaya RADIO JKT
 https://proxy.roov.id/?name=http://111.119.207.125:8060/;emVuby5mbSIsInJ0dGw
-
-
-
-
-
-
-
-
-
-
-
-
 
