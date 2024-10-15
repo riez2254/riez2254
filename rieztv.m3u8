@@ -93,6 +93,15 @@ https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="RIEZ TV" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/chxp66M/Moji-blue-svg.png",MOJI HD
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/GxXq8h5/RCTI-logo-2015-svg-1.png" group-title="RIEZ TV",RCTI HD TEST
+
+#EXTINF:-1 tvg-id="RCTI" tvg-url="" tvg-logo="https://i.ibb.co/GxXq8h5/RCTI-logo-2015-svg-1.png" group-title="RIEZ TV",RCTI HD TEST
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|user-agent=android-R+&referrer=https://www.rctiplus.com/
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
