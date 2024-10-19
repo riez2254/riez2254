@@ -1419,7 +1419,6 @@ https://n14.rcs.revma.com/chuzgcqd6k3vv?rj-ttl=5&rj-tok=AAABkggr_6wAdkejxaCcV2DA
 #EXTINF:0 tvg-logo="https://www.radiodahliafm.com/frontend/img/about/logo.png" group-title="RADIO",Dahlia Fm Bandung
 https://svara-stream.radioddns.net/bandung_dahliafm
 
-
 #EXTINF:0 tvg-logo="https://cdn.instant.audio/images/logos/radioonline-co-id/mara-106-7-fm-bandung.png" group-title="RADIO",Mara Fm Bandung
 https://i.klikhost.com/8224/;
 
@@ -1431,6 +1430,10 @@ https://i.klikhost.com/8330/;
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/V3QmYyb/OZ-Radio.png" group-title="RADIO",Oz Radio Bandung
 https://s3.vinhostmedia.com/1031/;
+
+#EXTINF:0 tvg-logo="https://klcbsofficial.com/wp-content/uploads/2023/05/klcbs-logo-header.png" group-title="RADIO",KLCBS FM Bandung
+https://streaming.klcbsofficial.com/listen/klcbs/klcbs
+
 
 #EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/19205.v6.png" group-title="RADIO",Sukapura Fm Tasik
 https://svara-stream.radioddns.net/tasik_sukapurafm_mp3
