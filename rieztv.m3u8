@@ -1434,6 +1434,8 @@ https://s3.vinhostmedia.com/1031/;
 #EXTINF:0 tvg-logo="https://klcbsofficial.com/wp-content/uploads/2023/05/klcbs-logo-header.png" group-title="RADIO",KLCBS FM Bandung
 https://streaming.klcbsofficial.com/listen/klcbs/klcbs
 
+#EXTINF:0 tvg-logo="https://www.urbanradiobandung.com/sitepad-data/uploads/2024/02/logo-urban-1.jpeg" group-title="RADIO",Urban Fm Bandung
+https://live1.indostreamserver.com/8250/stream;stream.nsv
 
 #EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/19205.v6.png" group-title="RADIO",Sukapura Fm Tasik
 https://svara-stream.radioddns.net/tasik_sukapurafm_mp3
