@@ -1440,6 +1440,9 @@ https://live1.indostreamserver.com/8250/stream;stream.nsv
 #EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/102446.v8.png" group-title="RADIO",KLITE Fm Bandung
 https://svara-stream.radioddns.net/bandung_klitefm_acc
 
+#EXTINF:0 tvg-logo="https://www.paramudaradio.com/images/LOGO-PARAMUDA.png" group-title="RADIO",PARAMUDA FM Bandung
+https://i.klikhost.com/8332/;
+
 #EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/19205.v6.png" group-title="RADIO",Sukapura Fm Tasik
 https://svara-stream.radioddns.net/tasik_sukapurafm_mp3
 
