@@ -1466,7 +1466,7 @@ http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w27894280.m3u8
 https://n0c.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkb1BlkoAg3qkUVlzgXGBCw
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/NCwCQmM/RDI-Jakarta.png" group-title="RADIO",RDI JKT
-https://stream.roov.id:8062/stream?type=http&nocache=876
+http://202.147.199.99:8000/;?
 
 #EXTINF:0 tvg-logo="https://traxonsky.com/wp-content/uploads/2022/01/trax-new-logo-2022-03-resize.png" group-title="RADIO",TRAX JKT
 http://n0c.radiojar.com/rrqf78p3bnzuv.mp3?1728803247=&rj-tok=AAABkoS9UDAAAiOKp3lz98xkoQ&rj-ttl=5
