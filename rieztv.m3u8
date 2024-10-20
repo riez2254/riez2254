@@ -1446,6 +1446,9 @@ https://i.klikhost.com/8332/;
 #EXTINF:0 tvg-logo="https://www.mgtradio.com/wp-content/uploads/2019/07/logo-mgtradio.png" group-title="RADIO",MGT FM Bandung
 https://s1.gntr.net/listen/mgtradio/mgtradio
 
+#EXTINF:0 tvg-logo="https://xchannel.id/img/logo.webp" group-title="RADIO",XCHANNEL RADIO Bandung
+https://stream.zeno.fm/xbprcfxqa0pvv
+
 #EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/19205.v6.png" group-title="RADIO",Sukapura Fm Tasik
 https://svara-stream.radioddns.net/tasik_sukapurafm_mp3
 
