@@ -1504,5 +1504,9 @@ https://s1.cloudmu.id/listen/bahana/stream
 https://wz.mari.co.id/web_kisfm/kisfm/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wixstatic.com/media/9448d0_3487c74204864770b72275b09712a40a~mv2.gif" group-title="RADIO",IMI Radio JKT
+https://a1.siar.us/listen/imiradio/stream
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/MGhw2zk/Logo-Fe-Male-2022.png" group-title="RADIO",Female Radio JKT
 https://s1.cloudmu.id/listen/female_radio/stream
+
 
