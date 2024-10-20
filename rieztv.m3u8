@@ -544,13 +544,12 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/tlc
 #EXTINF:-1 tvg-id="GEM (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="Entertainment & LifeStyle",GEM
 #https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8
 
-
-##EXTVLCOPT:http-origin=https://www.indihometv.com/
+#EXTVLCOPT:http-origin=https://www.indihometv.com/
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.9.6
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png",AFC indihome
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png",AFN (INDIEHOME)
 https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -994,6 +993,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/668/668-LOGO-m.png" group-title="Music",MTV Live
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
+
+#EXTVLCOPT:http-origin=https://www.indihometv.com/
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.9.6
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.visionplus.id/images/repository/668/668-LOGO-m.png",MTV Live (INDIEHOME)
+https://streaming.indihometv.com/atm/HLS-10s/MTV_LIVE/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
