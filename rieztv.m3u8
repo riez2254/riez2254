@@ -1058,6 +1058,10 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://v2.siar.us/mic/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDRxMSezn0wma-nZHwnwXiK8ObguUkokyCXBB7LIeVmFMNaQiQmM-bAYFSusS6-ajkul1TpykyEfBkb84GgWf6HUiZnnIIuxxEdpmP1Divc3uOkU0LaIDcUWrSX0Ri7v9L07MvElUBorUb/s40-c/pop-musik-tv-channel-logo.png" group-title="Music",POP MUSIC
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
