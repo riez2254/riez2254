@@ -1042,6 +1042,14 @@ https://streaming.indihometv.com/atm/HLS-10s/PRAMBORS_TV/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co.com/xqhK3hY/Citra-Dangdut-Logo-September-2019.png",CITRA DANGDUT (INDIHOME)
 https://streaming.indihometv.com/joss/130/citradangdut/playlist.m3u8
 
+#EXTVLCOPT:http-origin=https://www.indihometv.com/
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.9.6
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/I-Konser.png/640px-I-Konser.png",I-KONSER (INDIHOME)
+https://streaming.indihometv.com/joss/130/ikonser720/playlist.m3u8?
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
