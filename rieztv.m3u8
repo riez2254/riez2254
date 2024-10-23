@@ -562,7 +562,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/foo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="Entertainment & LifeStyle" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/640px-TLC_Logo.svg.png",TLC INDIHOME
-https://cdn11jtedge.indihometv.com/dass/133/tlc_dash/manifest_wuseetv.mpd
+https://streaming.indihometv.com/dass/133/tlc_dash/manifest_wuseetv.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tlc_ver1.png" group-title="Entertainment & LifeStyle",TLC (L)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/tlc.m3u8
