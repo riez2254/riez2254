@@ -238,6 +238,14 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="RIEZ TV" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Antara_%28news_agency%29_logo.svg/1024px-Antara_%28news_agency%29_logo.svg.png",ANTARA TV
 https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd
 
+#EXTVLCOPT:http-origin=https://www.indihometv.com/
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="RIEZ TV" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7RvVnkQ/SEA-Today-Indonesia-Logo.png",Sea TODAY
+https://streaming.indihometv.com/atm/DASH/seatoday/manifest.mpd
+
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="RIEZ TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/GpT6nXw/800px-New-Logo-TVRI.png",TVRI Nasional HD
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
