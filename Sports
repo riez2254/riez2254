@@ -111,6 +111,23 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/o
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
+#EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co.com/gFcBxSP/pngwing-com-29.png" group-title="01.Sports", DAZN ZONA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-024/stream.mpd
+
+#EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co.com/gFcBxSP/pngwing-com-29.png" group-title="01.Sports", DAZN LALIGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co.com/gFcBxSP/pngwing-com-29.png" group-title="01.Sports", DAZN F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd
 
 #EXTINF:-1  group-title="01.Sports",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
