@@ -501,4 +501,26 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-060/stream.mpd
 #EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="08.LIGA ARAB",SpoTV (INDIHOME)
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
+===============================MOTO GP==============================================================================================================
+
+#EXTINF:-1  group-title="09.MOTO GP",TNT SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTVLCOPT:http-origin=https://www.indihometv.com/
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="09.MOTO GP",SpoTV 2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
+#EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co.com/gFcBxSP/pngwing-com-29.png" group-title="09.MOTO GP", DAZN1 DE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
+
 
