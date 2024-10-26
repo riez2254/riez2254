@@ -393,11 +393,9 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
-#EXTINF:-1 group-title="03.LIGA INGRIS" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 1 Premium
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:edef8ba979d64acea3c827dcd51d21ed
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="03.LIGA INGRIS",Arena Sport 1 Premi
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
 ===============================LIGA SPANYOL==============================================================================================================
