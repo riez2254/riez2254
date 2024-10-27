@@ -529,12 +529,10 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/z3t_ZKIujFySGLw4RGdP3SYMFVU=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26140/bali-united-fc-vs-persis-689321.jpg" group-title="10.LIGA INDO", BALI UNITED VS PERSIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="03.LIGA INGRIS",Champions 6
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=204&type=drm
 https://wumbodumbo.serv00.net/red/play.mpd?id=204&type=dash
-
 
