@@ -529,3 +529,12 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
 
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/SDP_r17HPGBJC5ShpeSY9xSnyzo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headls/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="10.LIGA INDO",PSS VS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=205&type=drm
+https://wumbodumbo.serv00.net/red/play.mpd?id=205&type=dash
+
+
