@@ -557,4 +557,17 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 #KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1730468936~acl=%2fdrm%2fdash%2f17994*~id=167761917~data=hdntl~hmac=55a60749bf703dbcf4e5457123fea87d227aa8ae91956a521750e793b5b555b8
 
+#EXTINF:-1 group-title="11.BRI LIGA 1" tvg-id="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/Gcpz0zPwH2KT9MwmNUN3UvQ8QPw=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26349/persib-vs-semen-padang-0e7f0f.jpg",PERSIB VS PADANG VIDIO
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (Linux; U; Android 10; STK-L22 Build/HUAWEISTK-L22) Version/4.0 Chromecast/107.0.5304.91 Roku/DVP-12.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1730460931~acl=%2fdrm%2fdash%2f17623*~id=167761917~data=hdntl~hmac=821e94529a8793f5a436b787c12f7cb3e123a43d5c7761714d128e098f029572
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bb8a1c9a5e04e8995f76214a72ba7d1:2de4e2ca9dc6970e4600c7bb0378e07d
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gcpz0zPwH2KT9MwmNUN3UvQ8QPw=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26349/persib-vs-semen-padang-0e7f0f.jpg" group-title="11.BRI LIGA 1", PERSIB VS SEMEN PADANG VISION+
+https://vpns.xlive.workers.dev/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd?exp=3
+
 
