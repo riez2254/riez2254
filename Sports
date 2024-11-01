@@ -562,7 +562,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (Linux; U; Android 10; STK-L22 Build/HUAWEISTK-L22) Version/4.0 Chromecast/107.0.5304.91 Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1730460931~acl=%2fdrm%2fdash%2f17623*~id=167761917~data=hdntl~hmac=821e94529a8793f5a436b787c12f7cb3e123a43d5c7761714d128e098f029572
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1730473794~acl=%2fdrm%2fdash%2f17623*~id=167761917~data=hdntl~hmac=03500bf7698b26b69d3a36e174503ab33e2243df285fe1cacdae5e3f8d0fe500
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bb8a1c9a5e04e8995f76214a72ba7d1:2de4e2ca9dc6970e4600c7bb0378e07d
