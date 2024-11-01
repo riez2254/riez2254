@@ -1,4 +1,4 @@
-#EXTM3U
+knp#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="01.Sports", 01.USA Network (Doulby)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
