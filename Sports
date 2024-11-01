@@ -562,7 +562,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 persija&
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1730473794~acl=%2fdrm%2fdash%2f17623*~id=167761917~data=hdntl~hmac=03500bf7698b26b69d3a36e174503ab33e2243df285fe1cacdae5e3f8d0fe500
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdnts=exp=1730467691~acl=/drm/dash/17623*~id=101622646~hmac=fe00113566ad440420a411e31043a5dd5c2cd9325ce2225968e4cc5a7cd423f3%7CdrmScheme=clearkey&drmLicense=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bb8a1c9a5e04e8995f76214a72ba7d1:2de4e2ca9dc6970e4600c7bb0378e07d
