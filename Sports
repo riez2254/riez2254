@@ -1,4 +1,4 @@
-knp#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="01.Sports", 01.USA Network (Doulby)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -562,7 +562,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 persija&
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdnts=exp=1730467691~acl=/drm/dash/17623*~id=101622646~hmac=fe00113566ad440420a411e31043a5dd5c2cd9325ce2225968e4cc5a7cd423f3%7CdrmScheme=clearkey&drmLicense=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdnts=exp=1730467691~acl=/drm/dash/17623*~id=101622646~hmac=fe00113566ad440420a411e31043a5dd5c2cd9325ce2225968e4cc5a7cd423f3
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bb8a1c9a5e04e8995f76214a72ba7d1:2de4e2ca9dc6970e4600c7bb0378e07d
