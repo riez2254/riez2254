@@ -572,7 +572,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?h
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bb8a1c9a5e04e8995f76214a72ba7d1:2de4e2ca9dc6970e4600c7bb0378e07d
+#KODIPROP:inputstream.adaptive.license_key=6f05efb6357c47599f53e38d661edae5:829b14f48cecfa4f25ebb04c42a8d674
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/744px-BRI_Liga_1.svg.png" group-title="11.BRI LIGA 1", VISION+
 https://vpns.xlive.workers.dev/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd?exp=3
