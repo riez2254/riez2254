@@ -554,8 +554,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (Linux; U; Android 10; STK-L22 Build/HUAWEISTK-L22) Version/4.0 Chromecast/107.0.5304.91 Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1730468936~acl=%2fdrm%2fdash%2f17994*~id=167761917~data=hdntl~hmac=55a60749bf703dbcf4e5457123fea87d227aa8ae91956a521750e793b5b555b8
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1730646397~acl=%2fdrm%2fdash%2f17994*~id=167761917~data=hdntl~hmac=02096e8a6142381b897f96628e99f3dea48b5eb340f2c73bc6b95c5b17262fb3
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b1364e4e3e48e4af7c2318decaf570:a5550077854566ff3488582bd6777a79
