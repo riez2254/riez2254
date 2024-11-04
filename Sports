@@ -535,7 +535,7 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 ===============================MOTO GP==============================================================================================================
 
-#EXTINF:-1  group-title="09.MOTO GP",TNT SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7bR6Hk9/TNT-Sports-2-2023.png" group-title="09.MOTO GP", TNT SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
