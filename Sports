@@ -510,6 +510,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2022%2FAmr%2Framadan%2FSSC1_HD_Logo_2%2Foriginal%2FSSC1_HD_Logo_2.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="09.MOTO GP", SCC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+=================================================EVENT INDO=================================================================
+
 #EXTINF:-1 group-title="10.LIVOLY" tvg-id="MOJI" tvg-logo="https://i.ibb.co/chxp66M/Moji-blue-svg.png",MOJI VOLY
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (Linux; U; Android 10; STK-L22 Build/HUAWEISTK-L22) Version/4.0 Chromecast/107.0.5304.91 Roku/DVP-12.0
