@@ -518,25 +518,6 @@ https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.
 
 =================================================EVENT INDO=================================================================
 
-#EXTINF:-1 group-title="10.LIVOLY" tvg-id="MOJI" tvg-logo="https://i.ibb.co/chxp66M/Moji-blue-svg.png",MOJI VOLY
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (Linux; U; Android 10; STK-L22 Build/HUAWEISTK-L22) Version/4.0 Chromecast/107.0.5304.91 Roku/DVP-12.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1730646397~acl=%2fdrm%2fdash%2f17994*~id=167761917~data=hdntl~hmac=02096e8a6142381b897f96628e99f3dea48b5eb340f2c73bc6b95c5b17262fb3
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d0e362aa9ec4a8387eefa5be638c1d6:1a9e11a755559f1b47b551a15c4aa545
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/744px-BRI_Liga_1.svg.png" group-title="11.BRI LIGA 1", VISION+
-https://vpns.xlive.workers.dev/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd?exp=3
-
-#EXTINF:-1 group-title="11.BRI LIGA 1" tvg-id="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/744px-BRI_Liga_1.svg.png", VIDIO
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 tolol
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17624_stream.mpd?hdntl=exp=1730906793~acl=%2fdrm%2fdash%2f17624*~id=167761917~data=hdntl~hmac=96e09dfe4467f9281f53f7ec0291a3b36dc5ca50bc9bec1034e428324f6ca463
 
 =================================GO 3 SPORTS ================================================================================================================
 
