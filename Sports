@@ -742,3 +742,9 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
 
+#EXTINF:-1 tvg-id="Play Sports HD3.be" tvg-logo="https://i.ibb.co/ZGwTw4Q/playsports3.png" group-title="14.LIGA CHAMPIONS EROPA", PLAY SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
+
