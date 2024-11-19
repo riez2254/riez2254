@@ -13,9 +13,8 @@ https://sritv.serv00.net/red/play.mpd?id=9183&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
-##https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732004386~acl=/drm/dash/17994*~id=167761904~data=hdntl~hmac=1094fe96ff594aac436057935e582bb0555d51d10c6997e2dc9837cc22fcfbcf
-##https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732015353~acl=/drm/dash/17994*~id=167761904~data=hdntl~hmac=d562498c8d0ec3bd120f29564df9f082e688f17832a4c12b5428a532f7b30d52
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732027187~acl=/drm/dash/17994*~id=167761904~data=hdntl~hmac=d064a6fb07ad7efafb5367f2b3a84bbf1cab856b62871d3da2821531826b0477
+
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="11.LIVOLY" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/chxp66M/Moji-blue-svg.png",MOJI
 http://188.93.236.76:8070/live/resplice/wdLIS4d9758INyuX/298550.ts
 
