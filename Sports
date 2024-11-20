@@ -836,7 +836,7 @@ https://kametv.my.id/pdx/play.m3u8?id=8237
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://kametv.my.id/pdx/play.m3u8?id=206
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="00.NASIONAL",RTV
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/26fmLbV/RTV-GRADIENT-2.png" group-title="00.NASIONAL",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
