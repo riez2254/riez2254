@@ -424,6 +424,12 @@ https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-017/stream.mpd
 
+#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" group-title="04.LIGA SPANYOL",beIN Sorts 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
+https://kametv.my.id/pdx/play.mpd?id=6317
+
 ===============================LIGA ITALIA==============================================================================================================
 
 #EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co.com/V9wPR04/images-ZONA.jpg" group-title="05.LIGA ITALIA", DAZN ZONA
