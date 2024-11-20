@@ -830,7 +830,9 @@ https://kametv.my.id/pdx/play.m3u8?id=205
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://kametv.my.id/pdx/play.m3u8?id=8237
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JZraHY27L2UkLQBtj716dUiUfRk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" tvg-id="" tvg-name"" group-title="00.NASIONAL",Moji
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://m.vidio.com/&user-agent=VidioPlayer/6.38.10
-https://garudapremium.my.id/play.m3u8?ch=eyJyZWZyZXNoX3Rva2VuIjoiZXlKMGIydGxibDlwWkNJNkluRmlObU5KYmt4cklpd2lZMjl1ZEdWdWRGOTBlWEJsSWpvaVlYQndiR2xqWVhScGIyNHZlQzF0Y0dWblZWSk1JaXdpWTJoaGJtNWxiRjl3WVhSb0lqb2ljMHR4UldoWk5tRnVSSFJJZDNWSVJFVldWMFZWU1ZkU2FXTjFWbVowU1hOU1VUUXhhM0JvVGpoSk9IWktha2hvU0RKVVMzSkxibWxUWWxobVVuWlhjbFUyY25KWVJuSlRlbXhWZEc4d1RVVkhZa2d2SzIxWU4xQm9URTlsY1ZKT2RYRndSbTFOYkVSbldVUXdhbU4yU2xsdk0zWjFSR2gwWjNGcmQwazVaQ3Q0WWpaR1UyaGlhMGwzWkVzM1kxaHNaUzkzWWpaSlEyeEdVMjlpY25WeWRIRm9VVGRVYTBsM05VcHhiRVpJUmtNM1JXeHhPRzU1YTJ0cldubEhUMU53ZVRReWMyZElVbG94UVZSMGJsbDFRa2cwUm5kaGR6MDlJaXdpWTJoaGJtNWxiRjlzYjJkdklqb2lhSFIwY0hNNkx5OXBMbWx0WjNWeUxtTnZiUzlCUjFKNVlteEVMbkJ1WnlJc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWtKbGFXNHJVM0J2Y25Sekt6UXJUVmtySlRkQ1ZVNUpSa2tsTjBRaUxDSm5aVzVsY21GMFpXUmZkR2x0WlNJNklqSXdNalFsTWtZeE1TVXlSakUySlRJd01UQWxNMEV6T0NVelFUQXdJaXdpWlhod2FYSmxaRjkwYVcxbElqb2lNakF5TkNVeVJqRXhKVEpHTVRjbE1qQXdOaVV6UVRNNEpUTkJNREFpZlE9PSIsIm1lc3NhZ2UiOiJDaGFubmVsK2Vua3JpcHNpIn0=
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="00.NASIONAL",MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://kametv.my.id/pdx/play.m3u8?id=206
 
