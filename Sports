@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
 https://kametv.my.id/pdx/play.mpd?id=17623
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1024px-Logo_Vidio.png" group-title="11.BRI LIGA 1",VIDIO1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1024px-Logo_Vidio.png" group-title="11.BRI LIGA 1",VIDIO2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=658251d7ee4751bcc8a4774e54a015f6:07323279fca83f9084f057c12d2d3e84
