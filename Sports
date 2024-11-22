@@ -49,6 +49,20 @@ https://bit.ly/3OkAN1P
 ##https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732101578~acl=/drm/dash/17994*~id=167761904~data=hdntl~hmac=062e2b1ba67958bbaeafc3e7ec384724eb55f98f17aa84c0db7a1377d5b4b230
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732113348~acl=/drm/dash/17994*~id=167761904~data=hdntl~hmac=e3800dc6671deed371ef880eca78865ebd9e5cf32d3454e897894da7aade403d
 
+#EXTINF#:-1 group-title="LIVOLY" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/4dAKKdoH3a6wFluq2dxw0bGbk24=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26418/tni-au-electric-vs-bank-jatim-b11e81.jpg",  16:30 TNI AU VS BANK JATIM
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
+https://bit.ly/4fyoESW
+
+#EXTINF:-1 group-title="LIVOLY" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/DcwjWsNejtqWdEHNavrSBiPmDBw=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26780/petrokimia-gresik-vs-tni-al-86e552.jpg",  19:30 Petro kimia Gersik VS  TNI AL
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
+https://bit.ly/4fyoESW
+
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="LIVOLY" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/chxp66M/Moji-blue-svg.png",MOJI
 http://188.93.236.76:8070/live/resplice/wdLIS4d9758INyuX/298550.ts
 
