@@ -21,6 +21,13 @@ https://bit.ly/4fWKOxT
 #KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
 https://bit.ly/4fWKOxT
 
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/j0sq6I6HphNv5e2j0jf1SDc6VJg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26801/persib-vs-borneo-fc-samarinda-7a2b74.jpg", Back up 19:00 PERSIB VS BORNEO
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
+
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1024px-Logo_Vidio.png" group-title="16.BASKET",VIDIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
