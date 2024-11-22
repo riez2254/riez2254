@@ -1,10 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/1YhPdYu4pq89gLEmm3VV--kiGag=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26811/pss-sleman-vs-psbs-biak-42afa3.jpg" group-title="BRI LIGA 1", 15:30 PSS VS PSBS BIAK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/1YhPdYu4pq89gLEmm3VV--kiGag=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26811/pss-sleman-vs-psbs-biak-42afa3.jpg", 15:30 PSS SELEMAN VS PSBS BIAK
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=658251d7ee4751bcc8a4774e54a015f6:07323279fca83f9084f057c12d2d3e84
-https://kametv.my.id/pdx/play.mpd?id=17626
+#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
+https://bit.ly/4hZvaDM
 
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/8DEnpWAOF17uufjC3Yz18ANgW8E=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26813/persebaya-surabaya-vs-persija-6facfa1/persib-vs-borneo-fc-samarinda-7a2b74.jpg", 15:30 PERSEBAYA VS PERSIJA
 #EXTVLCOPT:http-referrer=https://m.vidio.com
