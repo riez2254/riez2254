@@ -40,15 +40,6 @@ https://kametv.my.id/pdx/play.mpd?id=6717
 #KODIPROP:inputstream.adaptive.license_key=e35dc3fb8d20bf4e57df2101b6eec782:840171ea994e02a22f0b5c889ce197ec
 https://bit.ly/3OkAN1P
 
-#EXTINF:-1 group-title="LIVOLY" tvg-id="MOJI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1024px-Logo_Vidio.png", VIDIO
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
-##https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732093384~acl=/drm/dash/17994*~id=167761904~data=hdntl~hmac=88dd78cf58fd785eb3918a6226d9f5f71409b53b2b39933352e5656387f41f65
-##https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732101578~acl=/drm/dash/17994*~id=167761904~data=hdntl~hmac=062e2b1ba67958bbaeafc3e7ec384724eb55f98f17aa84c0db7a1377d5b4b230
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732113348~acl=/drm/dash/17994*~id=167761904~data=hdntl~hmac=e3800dc6671deed371ef880eca78865ebd9e5cf32d3454e897894da7aade403d
-
 #EXTINF#:-1 group-title="LIVOLY" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/4dAKKdoH3a6wFluq2dxw0bGbk24=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26418/tni-au-electric-vs-bank-jatim-b11e81.jpg",  16:30 TNI AU VS BANK JATIM
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
