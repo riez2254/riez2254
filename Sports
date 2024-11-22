@@ -30,12 +30,12 @@ https://kametv.my.id/pdx/play.mpd?id=6786
 #KODIPROP:inputstream.adaptive.license_key=e35dc3fb8d20bf4e57df2101b6eec782:840171ea994e02a22f0b5c889ce197ec
 https://kametv.my.id/pdx/play.mpd?id=6717
 
-#EXTINF:-1 group-title="18.LIVOLY" tvg-id="16.BASKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1024px-Logo_Vidio.png", VIDIO Back up
+#EXTINF:-1 group-title="16.BASKET" tvg-id="Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1024px-Logo_Vidio.png", VIDIO Back up
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e35dc3fb8d20bf4e57df2101b6eec782:840171ea994e02a22f0b5c889ce197ec
-https://kametv.my.id/pdx/play.mpd?id=6717
+https://bit.ly/3OkAN1P
 
 #EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/4dAKKdoH3a6wFluq2dxw0bGbk24=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26418/tni-au-electric-vs-bank-jatim-b11e81.jpg" group-title="18.LIVOLI", 16:30 TNI AU VS BANK JATIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
