@@ -37,7 +37,7 @@ https://kametv.my.id/pdx/play.mpd?id=6717
 #KODIPROP:inputstream.adaptive.license_key=e35dc3fb8d20bf4e57df2101b6eec782:840171ea994e02a22f0b5c889ce197ec
 https://bit.ly/3OkAN1P
 
-#EXTINF:-1 group-title="18.LIVOLY" tvg-id="MOJI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1024px-Logo_Vidio.png", VIDIO
+#EXTINF:-1 group-title="LIVOLY" tvg-id="MOJI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1024px-Logo_Vidio.png", VIDIO
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -46,7 +46,7 @@ https://bit.ly/3OkAN1P
 ##https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732101578~acl=/drm/dash/17994*~id=167761904~data=hdntl~hmac=062e2b1ba67958bbaeafc3e7ec384724eb55f98f17aa84c0db7a1377d5b4b230
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732113348~acl=/drm/dash/17994*~id=167761904~data=hdntl~hmac=e3800dc6671deed371ef880eca78865ebd9e5cf32d3454e897894da7aade403d
 
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="18.LIVOLY" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/chxp66M/Moji-blue-svg.png",MOJI
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="LIVOLY" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/chxp66M/Moji-blue-svg.png",MOJI
 http://188.93.236.76:8070/live/resplice/wdLIS4d9758INyuX/298550.ts
 
 #EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg" group-title="17.UFC FIGHT", MolaTV 1
