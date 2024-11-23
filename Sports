@@ -86,6 +86,13 @@ https://bit.ly/4fyoESW
 #KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
 https://bit.ly/4fyoESW
 
+#EXTINF:-1 group-title="LIVOLY" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/Vr8rospXkpCD-ddKmLurrBTYfps=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26970/indomaret-vs-lavani-navy-c0e767.jpg", Back Up INDOMARET VS LAVANI NAVI
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4ddaq
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732363363~acl=/drm/dash/17994*~id=167947525~data=hdntl~hmac=4ea13bfae3f568b94c1cf19412928018c00730f905f10c36c66d9ad4cd9c485chttps://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732363363~acl=/drm/dash/17994*~id=167947525~data=hdntl~hmac=4ea13bfae3f568b94c1cf19412928018c00730f905f10c36c66d9ad4cd9c485c
+
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="LIVOLY" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/chxp66M/Moji-blue-svg.png",MOJI
 http://188.93.236.76:8070/live/resplice/wdLIS4d9758INyuX/298550.ts
 
