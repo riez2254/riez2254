@@ -6,14 +6,14 @@
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
 https://dusk.biz.id/visas/index.mpd?id=1002
 
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/Q7hD-mPnDQsbdzp-vBtUjv3J59I=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26803/persik-kediri-vs-psis-semarang-afc7cc.jpg",  15:30 PERSIK VS PSIS 
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/Q7hD-mPnDQsbdzp-vBtUjv3J59I=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26803/persik-kediri-vs-psis-semarang-afc7cc.jpg", 15:30 PERSIK VS PSIS 
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
 https://bit.ly/3Z5f4jD
 
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/YTJ1ZtIpLlPmWZyJjAbs5lXthEo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26816/ps-barito-putera-vs-persita-9168ba.jpg",  15:30 BARITO PUTRA VS PERSITA
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/YTJ1ZtIpLlPmWZyJjAbs5lXthEo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26816/ps-barito-putera-vs-persita-9168ba.jpg", 15:30 BARITO PUTRA VS PERSITA
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
