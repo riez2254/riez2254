@@ -50,7 +50,8 @@ https://bit.ly/3Z5f4jD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1732363482~acl=/drm/dash/17623*~id=167947525~data=hdntl~hmac=365314f5d410f522a23bd1ab4bc6914375966e482cec13f7b949a23c85115181
+##https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1732363482~acl=/drm/dash/17623*~id=167947525~data=hdntl~hmac=365314f5d410f522a23bd1ab4bc6914375966e482cec13f7b949a23c85115181
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1732375952~acl=/drm/dash/17623*~id=167947525~data=hdntl~hmac=ea48a7fdc80e7b6baa26e9c5d99fdbe18ed374afe4c656fb6536d17d45d4bd3b
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1024px-Logo_Vidio.png" group-title="16.BASKET",VIDIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
