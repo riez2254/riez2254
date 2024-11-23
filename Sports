@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:0 group-title="BRI LIGA 1" tvg-name="STARSPORT 3" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",Sportstar 3 HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
+https://dusk.biz.id/visas/index.mpd?id=1002
+
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/1YhPdYu4pq89gLEmm3VV--kiGag=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26811/pss-sleman-vs-psbs-biak-42afa3.jpg", 15:30 PSS SELEMAN VS PSBS BIAK
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
