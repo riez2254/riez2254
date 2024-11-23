@@ -90,7 +90,7 @@ https://bit.ly/4fyoESW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732376610~acl=/drm/dash/17994*~id=167947525~data=hdntl~hmac=1fb66b6643807ed42562a5f845891679b11364b21ed958b02d84a32923345a5e
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="LIVOLY" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/chxp66M/Moji-blue-svg.png",MOJI
 http://188.93.236.76:8070/live/resplice/wdLIS4d9758INyuX/298550.ts
