@@ -53,19 +53,19 @@ https://kametv.my.id/pdx/play.mpd?id=6717
 #KODIPROP:inputstream.adaptive.license_key=e35dc3fb8d20bf4e57df2101b6eec782:840171ea994e02a22f0b5c889ce197ec
 https://bit.ly/3OkAN1P
 
-#EXTINF#:-1 group-title="LIVOLY" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/4dAKKdoH3a6wFluq2dxw0bGbk24=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26418/tni-au-electric-vs-bank-jatim-b11e81.jpg",  16:30 TNI AU VS BANK JATIM
+#EXTINF:-1 group-title="LIVOLY" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/Vnplb9eBr3izvT6OuO-dYpEKSlA=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26968/rajawali-pasundan-vs-tni-au-c03da2.jpg",  16:30 RAJAWALI PASUNDAN VS TNI AU
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
 https://bit.ly/4fyoESW
 
-#EXTINF:-1 group-title="LIVOLY" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/DcwjWsNejtqWdEHNavrSBiPmDBw=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26780/petrokimia-gresik-vs-tni-al-86e552.jpg",  19:30 Petro kimia Gersik VS  TNI AL
+#EXTINF:-1 group-title="LIVOLY" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/Vr8rospXkpCD-ddKmLurrBTYfps=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26970/indomaret-vs-lavani-navy-c0e767.jpg",  19:00 INDOMARET VS LAVANI NAVI
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732289765~acl=/drm/dash/17994*~id=167947525~data=hdntl~hmac=7a90405ae850a4ee583c4ed2cd7fd40cfef2e373d4ca0951c6f4f12154955e68
+https://bit.ly/4fyoESW
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="LIVOLY" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/chxp66M/Moji-blue-svg.png",MOJI
 http://188.93.236.76:8070/live/resplice/wdLIS4d9758INyuX/298550.ts
