@@ -6,33 +6,26 @@
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
 https://dusk.biz.id/visas/index.mpd?id=1002
 
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/1YhPdYu4pq89gLEmm3VV--kiGag=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26811/pss-sleman-vs-psbs-biak-42afa3.jpg", 15:30 PSS SELEMAN VS PSBS BIAK
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/Q7hD-mPnDQsbdzp-vBtUjv3J59I=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26803/persik-kediri-vs-psis-semarang-afc7cc.jpg",  15:30 PERSIK VS PSIS 
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eb23c858ba9d21284cc5b69a05bbe3a:f1c7684900121d4f0932e8f54b1393be
-https://bit.ly/4hZvaDM
+#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
+https://bit.ly/3Z5f4jD
 
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/8DEnpWAOF17uufjC3Yz18ANgW8E=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26813/persebaya-surabaya-vs-persija-6facfa.jpg", 15:30 PERSEBAYA VS PERSIJA
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/YTJ1ZtIpLlPmWZyJjAbs5lXthEo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26816/ps-barito-putera-vs-persita-9168ba.jpg",  15:30 BARITO PUTRA VS PERSITA
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
-https://bit.ly/4fWKOxT
+#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
+bit.ly/3V6Nv86
 
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/j0sq6I6HphNv5e2j0jf1SDc6VJg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26801/persib-vs-borneo-fc-samarinda-7a2b74.jpg", 19:00 PERSIB VS BORNEO
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/u7hxqLm5ckrA2XzEBkcvEqyFTCw=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26818/dewa-united-fc-vs-bali-united-fc-072766.jpg",  19:00 DEWA UNITED VS BALI UNITED
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
-https://bit.ly/4fWKOxT
-
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/j0sq6I6HphNv5e2j0jf1SDc6VJg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26801/persib-vs-borneo-fc-samarinda-7a2b74.jpg", Back up PERSIB VS BORNEO
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17624_stream.mpd?hdntl=exp=1732289859~acl=/drm/dash/17624*~id=167947525~data=hdntl~hmac=bd3893394a7b9decf677298868b55326b7a2838c3471ec3cf0c04a10f66e41ad
+#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
+https://bit.ly/3Z5f4jD
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1024px-Logo_Vidio.png" group-title="16.BASKET",VIDIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
