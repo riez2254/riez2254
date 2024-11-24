@@ -560,6 +560,20 @@ https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-018/stream.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-1.png", tvg-id="ksport1hd" group-title="05.LIGA ITALIA", ADSP 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/abu-dhabi-sports-premium-2.png", tvg-id="ksport1hd" group-title="05.LIGA ITALIA", ADSP 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
 ===============================LIGA JERMAN==============================================================================================================
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
