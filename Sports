@@ -21,19 +21,6 @@ https://kametv.my.id/pdx/play.mpd?id=6717
 #KODIPROP:inputstream.adaptive.license_key=e35dc3fb8d20bf4e57df2101b6eec782:840171ea994e02a22f0b5c889ce197ec
 https://bit.ly/3OkAN1P
 
-#EXTINF:-1 group-title="LIVOLY" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/Vnplb9eBr3izvT6OuO-dYpEKSlA=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26968/rajawali-pasundan-vs-tni-au-c03da2.jpg",  16:30 RAJAWALI PASUNDAN VS TNI AU
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
-https://bit.ly/4fyoESW
-
-#EXTINF:-1 group-title="LIVOLY" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/Vr8rospXkpCD-ddKmLurrBTYfps=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26970/indomaret-vs-lavani-navy-c0e767.jpg",  19:00 INDOMARET VS LAVANI NAVI
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
-https://bit.ly/4fyoESW
 =========================== Sports ============================
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="01.Sports", 01.USA Network (Doulby)
@@ -315,7 +302,7 @@ https://av-ch-cdn.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports5" group-title="02.Sport Indo" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
+#EXTINF:-1 tvg-id="beINSports5" group-title="02.Sports Indo" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 https://av-ch-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
