@@ -2,41 +2,6 @@
 
 ============================== INDO EVENT===========
 
-#EXTINF:0 group-title="BRI LIGA 1" tvg-name="STARSPORT 3" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",Sportstar 3 HD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
-https://dusk.biz.id/visas/index.mpd?id=1002
-
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/Q7hD-mPnDQsbdzp-vBtUjv3J59I=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26803/persik-kediri-vs-psis-semarang-afc7cc.jpg", 15:30 PERSIK VS PSIS 
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
-https://bit.ly/3Z5f4jD
-
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/YTJ1ZtIpLlPmWZyJjAbs5lXthEo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26816/ps-barito-putera-vs-persita-9168ba.jpg", 15:30 BARITO PUTRA VS PERSITA
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=658251d7ee4751bcc8a4774e54a015f6:07323279fca83f9084f057c12d2d3e84
-https://bit.ly/3V6Nv86
-
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/u7hxqLm5ckrA2XzEBkcvEqyFTCw=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26818/dewa-united-fc-vs-bali-united-fc-072766.jpg",  19:00 DEWA UNITED VS BALI UNITED
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
-https://bit.ly/3Z5f4jD
-
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/u7hxqLm5ckrA2XzEBkcvEqyFTCw=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26818/dewa-united-fc-vs-bali-united-fc-072766.jpg", Back Up DEWA UNITED VS BALI UNITED
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
-##https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1732363482~acl=/drm/dash/17623*~id=167947525~data=hdntl~hmac=365314f5d410f522a23bd1ab4bc6914375966e482cec13f7b949a23c85115181
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1732375952~acl=/drm/dash/17623*~id=167947525~data=hdntl~hmac=ea48a7fdc80e7b6baa26e9c5d99fdbe18ed374afe4c656fb6536d17d45d4bd3b
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1024px-Logo_Vidio.png" group-title="16.BASKET",VIDIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -69,22 +34,6 @@ https://bit.ly/4fyoESW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
 https://bit.ly/4fyoESW
-
-#EXTINF:-1 group-title="LIVOLY" tvg-id="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/Vr8rospXkpCD-ddKmLurrBTYfps=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/26970/indomaret-vs-lavani-navy-c0e767.jpg", back Up INDOMARET VS LAVANI NAVI
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1732376610~acl=/drm/dash/17994*~id=167947525~data=hdntl~hmac=1fb66b6643807ed42562a5f845891679b11364b21ed958b02d84a32923345a5e
-
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="LIVOLY" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/chxp66M/Moji-blue-svg.png",MOJI
-http://188.93.236.76:8070/live/resplice/wdLIS4d9758INyuX/298550.ts
-
-#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg" group-title="17.UFC FIGHT", MolaTV 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
-
 =========================== Sports ============================
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="01.Sports", 01.USA Network (Doulby)
