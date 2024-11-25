@@ -910,5 +910,5 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid
 
 ====================================CAMPURAN===================
 
-#EXTINF:-1 tvg-id="Realityking1.id" group-title="CAMPURAN" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo=" REALITY KINGS
+#EXTINF:-1 tvg-id="Realityking1.id" group-title="CAMPURAN" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="", REALITY KINGS
 http://206.212.244.71:8080/Un1c8v/334883/160041
