@@ -541,7 +541,7 @@ https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-060/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="07.LIGA PRANCIS", ARENA SPORT 4
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="14.LIGA CHAMPIONS EROPA", ARENA SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -763,37 +763,37 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
+https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-054/stream.mpd
 
 #EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co.com/DkKYmTM/download-PT2.jpg" group-title="14.LIGA CHAMPIONS EROPA", DAZN 2 Portugal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd
+https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-055/stream.mpd
 
 #EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co.com/Jsmc21g/download-PT3.jpg" group-title="14.LIGA CHAMPIONS EROPA", DAZN 3 Portugal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd
+https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-056/stream.mpd
 
 #EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co.com/T1SZM0n/download-PT4.jpg" group-title="14.LIGA CHAMPIONS EROPA", DAZN 4 Portugal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd
+https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-057/stream.mpd
 
 #EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co.com/zGNG7sB/download-PT5.jpg" group-title="14.LIGA CHAMPIONS EROPA", DAZN 5 Portugal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd
+https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-058/stream.mpd
 
 #EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co.com/8zJ7G9G/download-PT-6.jpg" group-title="14.LIGA CHAMPIONS EROPA", DAZN 6 Portugal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd
+https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-059/stream.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -823,25 +823,25 @@ https://av-ch-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
+https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-051/stream.mpd
 
 #EXTINF:-1 tvg-id="Play Sports HD2.be" tvg-logo="https://i.ibb.co/MB271LX/playsports2.png" group-title="14.LIGA CHAMPIONS EROPA", PLAY SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
+https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-052/stream.mpd
 
 #EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co.com/L0RSj1w/download-3.jpg" group-title="14.LIGA CHAMPIONS EROPA", DAZN1 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
+https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-017/stream.mpd
 
 #EXTINF:-1 tvg-id="Play Sports HD3.be" tvg-logo="https://i.ibb.co/ZGwTw4Q/playsports3.png" group-title="14.LIGA CHAMPIONS EROPA", PLAY SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
+https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-053/stream.mpd
 
 ===================================TV NASIONAL=====================================
 
