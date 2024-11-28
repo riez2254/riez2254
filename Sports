@@ -311,7 +311,7 @@ https://av-ch-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="02.Sports Indo",Soccer Channel
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="AFC2 PERSIB DAY",Soccer Channel
 https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
