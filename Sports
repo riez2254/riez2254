@@ -522,6 +522,12 @@ https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63536
 
+#EXTINF:-1 group-title="06.LIGA JERMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png",Sportstar 4 HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1013
+https://dusk.biz.id/visas/index.mpd?id=1013
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0y0rX5s/sido-news.png" group-title="06.LIGA JERMAN", SINDO NEWS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
