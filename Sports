@@ -15,6 +15,8 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c63ef11648fcdd4ad4ea91c1effa91ba:8ecf85e6b1c663162e3f584d111ea30e
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17622_stream.mpd?hdntl=exp=1733053325~acl=/drm/dash/17622*~id=167880549~data=hdntl~hmac=783a66c55278b79bd62908f8a49df59e84e48e281eb4fc529deabdcaa9e6cc88
+
 =========================== Sports ============================
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="01.Sports", 01.USA Network (Doulby)
